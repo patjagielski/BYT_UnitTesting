@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ec55b50-2cce-4280-a89a-36528dc29d4d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1kNSEm4zUkbhwJx83zRO8ELBr0r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.AccountTest">
+    <configuration name="AccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b_Money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="b_Money" />
+      <option name="MAIN_CLASS_NAME" value="b_Money.AccountTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b_Money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="b_Money" />
+      <option name="MAIN_CLASS_NAME" value="b_Money.BankTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CurrencyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b_Money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="b_Money" />
+      <option name="MAIN_CLASS_NAME" value="b_Money.CurrencyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b_Money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="b_Money" />
+      <option name="MAIN_CLASS_NAME" value="b_Money.MoneyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MoneyTest.testSub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lab1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b_Money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="b_Money" />
+      <option name="MAIN_CLASS_NAME" value="b_Money.MoneyTest" />
+      <option name="METHOD_NAME" value="testSub" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountTest" />
+        <item itemvalue="JUnit.BankTest" />
+        <item itemvalue="JUnit.CurrencyTest" />
+        <item itemvalue="JUnit.MoneyTest" />
+        <item itemvalue="JUnit.MoneyTest.testSub" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ec55b50-2cce-4280-a89a-36528dc29d4d" name="Default Changelist" comment="" />
+      <created>1605539446437</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605539446437</updated>
+      <workItem from="1605539450317" duration="5931000" />
+      <workItem from="1606646851040" duration="15163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1212" y="367" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606652453360">
+      <screen x="-1920" y="1" width="1920" height="1080" />
+    </state>
+    <state x="-1212" y="367" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864/-1920.1.1920.1080@-1920.1.1920.1080" timestamp="1606652453360" />
+    <state x="566" y="293" width="403" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864/-1920.1.1920.1080@0.0.1536.864" timestamp="1605541483582" />
+    <state width="1877" height="364" key="GridCell.Tab.0.bottom" timestamp="1606669218184">
+      <screen x="-1920" y="1" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.0.bottom/0.0.1536.864/-1920.1.1920.1080@-1920.1.1920.1080" timestamp="1606669218184" />
+    <state width="1493" height="295" key="GridCell.Tab.0.bottom/0.0.1536.864/-1920.1.1920.1080@0.0.1536.864" timestamp="1606665913894" />
+    <state width="1877" height="364" key="GridCell.Tab.0.center" timestamp="1606669218183">
+      <screen x="-1920" y="1" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.0.center/0.0.1536.864/-1920.1.1920.1080@-1920.1.1920.1080" timestamp="1606669218183" />
+    <state width="1493" height="295" key="GridCell.Tab.0.center/0.0.1536.864/-1920.1.1920.1080@0.0.1536.864" timestamp="1606665913893" />
+    <state width="1877" height="364" key="GridCell.Tab.0.left" timestamp="1606669218183">
+      <screen x="-1920" y="1" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.0.left/0.0.1536.864/-1920.1.1920.1080@-1920.1.1920.1080" timestamp="1606669218183" />
+    <state width="1493" height="295" key="GridCell.Tab.0.left/0.0.1536.864/-1920.1.1920.1080@0.0.1536.864" timestamp="1606665913893" />
+    <state width="1877" height="364" key="GridCell.Tab.0.right" timestamp="1606669218184">
+      <screen x="-1920" y="1" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.0.right/0.0.1536.864/-1920.1.1920.1080@-1920.1.1920.1080" timestamp="1606669218184" />
+    <state width="1493" height="295" key="GridCell.Tab.0.right/0.0.1536.864/-1920.1.1920.1080@0.0.1536.864" timestamp="1606665913893" />
+    <state width="1877" height="364" key="GridCell.Tab.1.bottom" timestamp="1606669218184">
+      <screen x="-1920" y="1" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.bottom/0.0.1536.864/-1920.1.1920.1080@-1920.1.1920.1080" timestamp="1606669218184" />
+    <state width="1877" height="364" key="GridCell.Tab.1.center" timestamp="1606669218184">
+      <screen x="-1920" y="1" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.center/0.0.1536.864/-1920.1.1920.1080@-1920.1.1920.1080" timestamp="1606669218184" />
+    <state width="1877" height="364" key="GridCell.Tab.1.left" timestamp="1606669218184">
+      <screen x="-1920" y="1" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.left/0.0.1536.864/-1920.1.1920.1080@-1920.1.1920.1080" timestamp="1606669218184" />
+    <state width="1877" height="364" key="GridCell.Tab.1.right" timestamp="1606669218184">
+      <screen x="-1920" y="1" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="364" key="GridCell.Tab.1.right/0.0.1536.864/-1920.1.1920.1080@-1920.1.1920.1080" timestamp="1606669218184" />
+    <state x="498" y="327" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605539495902">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="498" y="327" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.864/-1920.1.1920.1080@0.0.1536.864" timestamp="1605539495902" />
+  </component>
+</project>
